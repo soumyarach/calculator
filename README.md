@@ -21,4 +21,4 @@
  Very large numbers,
  Very small numbers.
  
-=> These data sets should help you to test the functionality and robustness of your CLI calculator.
+-> These data sets should help you to test the functionality and robustness of your CLI calculator.
