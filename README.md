@@ -8,14 +8,14 @@
 
 *DATASETS FOR CLI CALCULATOR:-
 -> Test cases:-
- Addition
- Subtraction
- Multipulication
- Division
- Invalid input
- Decimal numbers
+ Addition,
+ Subtraction,
+ Multipulication,
+ Division,
+ Invalid input,
+ Decimal numbers.
 
  -> Edge cases:-
- Very large numbers
- Very small numbers
+ Very large numbers,
+ Very small numbers.
 => These data sets should help you to test the functionality and robustness of your CLI calculator
