@@ -8,7 +8,7 @@
 -> The resultant output is obtained. 
 
 
-*DATASETS FOR CLI CALCULATOR:-
+DATASETS FOR CLI CALCULATOR:-
 -> Test cases:-
  Addition,
  Subtraction,
